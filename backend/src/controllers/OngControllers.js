@@ -8,7 +8,7 @@ module.exports = {
     },
 
     async create(request, response){
-        // Declaração explicíta: evita envio de dado não solicitado
+        // Declaração explícita: evita envio de dado não solicitado
         const { name, email, whatsapp, city, uf } = request.body;
         const id = crypto.randomBytes(4).toString('HEX');
 
