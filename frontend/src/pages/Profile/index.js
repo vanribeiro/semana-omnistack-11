@@ -1,5 +1,5 @@
 import React, { useState, useEffect} from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom';
 import { FiPower, FiTrash2 } from 'react-icons/fi';
 
 import logo from '../../assets/logo.svg';
@@ -10,6 +10,8 @@ import api from '../../service/api';
 export default function Profile() {
     const [incidents, setIncidents] = useState([]);
     
+    const history = useHistory();
+
     const ongId = localStorage.getItem('ongId');
     const ongName = localStorage.getItem('ongName');
     useEffect(() => {
@@ -30,9 +32,15 @@ export default function Profile() {
                     Authorization: ongId
                 }
             });
+            setIncidents(incidents.filter(incident => incident.id !== id));
         } catch (error) {
             alert('Erro ao deletar o caso... Tente novamente!');
         }
+    }
+
+    function handleLogout() {
+        localStorage.clear();
+        history.push('/');
     }
 
     return (
@@ -44,7 +52,7 @@ export default function Profile() {
                     Cadastrar Novo Caso
                 </Link>
                 <button type="button">
-                    <FiPower size={18} color="#e0204e" />
+                    <FiPower onClick={handleLogout} size={18} color="#e0204e" />
                 </button>
             </header>
 

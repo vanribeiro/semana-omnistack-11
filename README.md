@@ -6,22 +6,29 @@ Aplicação: Be The Hero
 
 - [X] 23/03 - Conhecendo a OmniStack
 - [X] 24/03 - Criando a Base da Aplicação
-- [ ] 25/03 - Construindo a Interface Web
+- [X] 25/03 - Construindo a Interface Web
 - [ ] 26/03 - Desenvolvendo o app mobile
 - [ ] 27/03 - Funcionalidades avançadas
 
 ## Tecnologias dessa OmniStack:
 
 - Front-End
-  - ReactJS
+  - [ReactJS](https://reactjs.org)
 - Back-End
-  - NodeJS
-    - nodemonJS
-  - SQLite3
-    - knexJS
+  - Runtime JavaScript:
+    - [NodeJS:](https://nodejs.org/)
+      - [nodemonJS](https://nodemon.io/)
+  - Banco de Dados:
+    - [SQLite](https://www.sqlite.org)
+    - [knexJS](http://knexjs.org/)
 
 Minhas anotações:
 
 - [Funcionalidades da aplicação](my-notes/00-funcionalidades.md)
-- [Sobre o NodeJS](my-notes/01-nodeJS.md)
-- [Dados, entidades e knexJS](my-notes/02-dados-e-entidades.md)
+- [Back-End:](my-notes/backend)
+  - [NodeJS](my-notes/backend/01-nodeJS.md)
+  - [Dados, entidades e knexJS](my-notes/back-end/02-dados-e-entidades.md)
+  - [API](my-notes/back-end/03-api.md)
+- [Front-End:](my-notes/frontend)
+  - [ReactJS](my-notes/frontend/reactJs.md)
+  - [Rotas](my-notes/frontend/reactJs-routes.md)
