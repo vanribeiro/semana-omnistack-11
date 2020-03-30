@@ -1,13 +1,7 @@
-<div class="images">
+<p class="images" align=center>
 <img src="frontend/src/assets/logo.svg" alt="App Be the Hero">
-</div>
+</p>
 
-<style>
-  .images{
-    display: flex;
-    justify-content: center;
-  }
-</style>
 -------------------------------
 
 ## Semana OmniStack nº11 - RocketSeat
