@@ -4,12 +4,7 @@
 
 # <p align="center">🚀 Semana OmniStack nº11 </p>
 
-<p align="center">
-<a href="#sobre-o-projeto">Sobre o Projeto</a> |
-<a href="#minha-jornada">Minha Jornada</a> |
-<a href="#tecnologias-dessa-omnistack">Tecnologias</a> |
-<a href="#como-utilizar">Como Utilizar</a>
-</p>
+[Sobre o Projeto](#%f0%9f%93%9d-sobre-o-projeto) | [Minha Jornada](#%f0%9f%91%a3-minha-jornada) | [Tecnologias](#%f0%9f%92%bb-tecnologias-dessa-omnistack) | [Como usar](#%f0%9f%98%89-como-utilizar)
 
 ## 📝 [Sobre o Projeto](#sobre-o-projeto)
 
@@ -17,7 +12,7 @@
 
 O projeto _Be The Hero_ tem o intuito de ajudar Ongs a cadastrar suas necessidades, angariar fundos e conectar pessoas que desejam ajudar nessas causas.
 
-## 👣 [Minha Jornada](#minha-jornada)
+## 👣 [Minha Jornada](#%f0%9f%91%a3-minha-jornada)
 
 Período: 23/03 a 27/03/2020
 
@@ -31,7 +26,7 @@ Aplicação: Be The Hero
 
 **Considerações**: infelizmente não consegui realizar as atividades do dia 26/03, devido a problemas técnicos e outras situações. Contudo, estou muito feliz por ter participado! 😃
 
-## 💻 [Tecnologias dessa OmniStack](#tecnologias-dessa-omnistack)
+## 💻 [Tecnologias dessa OmniStack](#%f0%9f%92%bb-tecnologias-dessa-omnistack)
 
 - Front-End
   - [ReactJS](https://reactjs.org)
@@ -51,7 +46,7 @@ Aplicação: Be The Hero
   - Integração: [SuperTest](https://github.com/visionmedia/supertest)
 
 
-# 😉 [Como utilizar](#como-utilizar)
+# 😉 [Como utilizar](#%f0%9f%98%89-como-utilizar)
 
 Clonando esse repositório:
 
