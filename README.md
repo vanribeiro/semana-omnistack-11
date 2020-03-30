@@ -4,12 +4,12 @@
 
 ______________________________
 
-<nav align="center">
+<p align="center">
 <a href="#sobre-o-projeto">Sobre o Projeto</a> |
 <a href="#minha-jornada">Minha Jornada</a> |
 <a href="#tecnologias-dessa-omnistack">Tecnologias</a> |
 <a href="#como-utilizar">Como Utilizar</a>
-</nav>
+</p>
 
 # 🚀 Semana OmniStack nº11 - RocketSeat
 
