@@ -1,4 +1,10 @@
-# Semana OmniStack nº11 - RocketSeat 
+![App Be the Hero](frontend/src/assets/logo.svg)
+
+-------------------------------
+
+## Semana OmniStack nº11 - RocketSeat
+
+### Minha Jornada
 
 Período: 23/03 a 27/03/2020
 
@@ -7,8 +13,10 @@ Aplicação: Be The Hero
 - [X] 23/03 - Conhecendo a OmniStack
 - [X] 24/03 - Criando a Base da Aplicação
 - [X] 25/03 - Construindo a Interface Web
-- [ ] 26/03 - Desenvolvendo o app mobile
-- [ ] 27/03 - Funcionalidades avançadas
+- [ ] ~~26/03 - Desenvolvendo o app mobile~~
+- [X] 27/03 - Funcionalidades avançadas
+
+**Considerações**: infelizmente não consegui realizar as atividades do dia 25/03, devido a problemas técnicos e outras situações. Mas estou muito feliz por ter participado! 😃
 
 ## Tecnologias dessa OmniStack:
 
@@ -21,8 +29,15 @@ Aplicação: Be The Hero
   - Banco de Dados:
     - [SQLite](https://www.sqlite.org)
     - [knexJS](http://knexjs.org/)
+- Cliente API REST:
+  - [Insomnia](https://insomnia.rest/)
+- Validação de Dados e Rotas:
+  - [Biblioteca Celebrate](https://github.com/arb/celebrate)
+- Testes:
+  - Unitário: [Jest](https://jestjs.io/)
+  - Integração: [SuperTest](https://github.com/visionmedia/supertest)
 
-Minhas anotações:
+Algumas das Minhas Anotações:
 
 - [Funcionalidades da aplicação](my-notes/00-funcionalidades.md)
 - [Back-End:](my-notes/backend)
