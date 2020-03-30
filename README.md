@@ -2,7 +2,7 @@
 <img src="frontend/src/assets/logo.svg" alt="App Be the Hero">
 </p>
 
-______________________________
+# <p align="center">🚀 Semana OmniStack nº11 - </p>
 
 <p align="center">
 <a href="#sobre-o-projeto">Sobre o Projeto</a> |
@@ -11,7 +11,7 @@ ______________________________
 <a href="#como-utilizar">Como Utilizar</a>
 </p>
 
-# 🚀 Semana OmniStack nº11 - RocketSeat
+
 
 
 ## 📝 [Sobre o Projeto](#sobre-o-projeto)
