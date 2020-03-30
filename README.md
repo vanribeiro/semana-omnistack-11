@@ -11,14 +11,14 @@ ______________________________
 <a href="#como-utilizar">Como Utilizar</a>
 </nav>
 
-# Semana OmniStack nº11 - RocketSeat
+# 🚀 Semana OmniStack nº11 - RocketSeat
 
 
-## [Sobre o Projeto](#sobre-o-projeto)
+## 📝 [Sobre o Projeto](#sobre-o-projeto)
 
 O projeto _Be The Hero_ tem o intuito de ajudar Ongs a cadastrar suas necessidades, angariar fundos e conectar pessoas que desejam ajudar nessas causas.
 
-## [Minha Jornada](#minha-jornada)
+## 👣 [Minha Jornada](#minha-jornada)
 
 Período: 23/03 a 27/03/2020
 
@@ -32,7 +32,7 @@ Aplicação: Be The Hero
 
 **Considerações**: infelizmente não consegui realizar as atividades do dia 26/03, devido a problemas técnicos e outras situações. Contudo, estou muito feliz por ter participado! 😃
 
-## [Tecnologias dessa OmniStack:](#tecnologias-dessa-omnistack)
+## 💻 [Tecnologias dessa OmniStack:](#tecnologias-dessa-omnistack)
 
 - Front-End
   - [ReactJS](https://reactjs.org)
@@ -52,7 +52,7 @@ Aplicação: Be The Hero
   - Integração: [SuperTest](https://github.com/visionmedia/supertest)
 
 
-# [Como utilizar](#como-utilizar)
+# 😉 [Como utilizar](#como-utilizar)
 
 Clonando esse repositório:
 
@@ -105,10 +105,3 @@ Para visualizar a aplicação no navegador, acesse:
 ```bash
 http://localhost:3333/
 ```
-
-
-
-
-
-
-
