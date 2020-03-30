@@ -32,7 +32,7 @@ Aplicação: Be The Hero
 
 **Considerações**: infelizmente não consegui realizar as atividades do dia 26/03, devido a problemas técnicos e outras situações. Contudo, estou muito feliz por ter participado! 😃
 
-## 💻 [Tecnologias dessa OmniStack:](#tecnologias-dessa-omnistack)
+## 💻 [Tecnologias dessa OmniStack](#tecnologias-dessa-omnistack)
 
 - Front-End
   - [ReactJS](https://reactjs.org)
