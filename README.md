@@ -1,4 +1,7 @@
+<div align=center>
 ![App Be the Hero](frontend/src/assets/logo.svg)
+</div>
+
 
 -------------------------------
 
@@ -16,7 +19,7 @@ Aplicação: Be The Hero
 - [ ] ~~26/03 - Desenvolvendo o app mobile~~
 - [X] 27/03 - Funcionalidades avançadas
 
-**Considerações**: infelizmente não consegui realizar as atividades do dia 25/03, devido a problemas técnicos e outras situações. Mas estou muito feliz por ter participado! 😃
+**Considerações**: infelizmente não consegui realizar as atividades do dia 26/03, devido a problemas técnicos e outras situações. Mas estou muito feliz por ter participado! 😃
 
 ## Tecnologias dessa OmniStack:
 
