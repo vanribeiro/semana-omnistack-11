@@ -4,13 +4,8 @@
 
 # <p align="center">🚀 Semana OmniStack nº11 </p>
 
-- [<p align="center">🚀 Semana OmniStack nº11 </p>](#%f0%9f%9a%80-semana-omnistack-n%c2%ba11)
-  - [📝 Sobre o Projeto](#%f0%9f%93%9d-sobre-o-projeto)
-  - [👣 Minha Jornada](#%f0%9f%91%a3-minha-jornada)
-  - [💻 Tecnologias dessa OmniStack](#%f0%9f%92%bb-tecnologias-dessa-omnistack)
-- [😉 Como utilizar](#%f0%9f%98%89-como-utilizar)
-  - [Para ver o `Client-Side`(Front-End):](#para-ver-o-client-sidefront-end)
-  - [Para ver o `Server-Side`(Back-End):](#para-ver-o-server-sideback-end)
+[Sobre o Projeto](#%f0%9f%93%9d-sobre-o-projeto) |
+[Minha Jornada](#%f0%9f%91%a3-minha-jornada) | [Tecnologias](#%f0%9f%92%bb-tecnologias-dessa-omnistack) | [Como usar](#%f0%9f%98%89-como-utilizar)
 
 ## 📝 [Sobre o Projeto](#sobre-o-projeto)
 
