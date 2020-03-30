@@ -13,6 +13,8 @@
 
 ## 📝 [Sobre o Projeto](#sobre-o-projeto)
 
+![Be The Hero Home](frontend/src/assets/telas/01-be-the-hero-home.png)
+
 O projeto _Be The Hero_ tem o intuito de ajudar Ongs a cadastrar suas necessidades, angariar fundos e conectar pessoas que desejam ajudar nessas causas.
 
 ## 👣 [Minha Jornada](#minha-jornada)
